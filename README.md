@@ -259,6 +259,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - Movie data provided by [The Movie Database (TMDB)](https://www.themoviedb.org/)
+- Design inspiration from [Moov - Movie Landing Page on Dribbble](https://dribbble.com/shots/22869557-Moov-Movie-Landing-Page)
 - Built with guidance from **GitHub Copilot** and **Claude Sonnet 4.5**
 - Inspired by Netflix, Disney+, and modern streaming platforms
 
