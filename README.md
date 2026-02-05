@@ -4,7 +4,7 @@ A modern, Netflix-inspired movie streaming website built with Next.js 14, TypeSc
 
 ## 🚀 Live Demo
 
-**[View Live Demo on Vercel](https://your-project-name.vercel.app)** _(Deploy and add your link here)_
+**[View Live Demo on Vercel](https://movies-directory-rouge.vercel.app/)**
 
 ## 📊 Dataset Used & Source
 
