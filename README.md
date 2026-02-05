@@ -104,22 +104,10 @@ TMDB_API_KEY=your_api_key_here
 
 This project was built with assistance from **GitHub Copilot** and **Claude Sonnet 4.5**. Here are some example prompts used:
 
-#### Design & Layout
-
-```
-"Create a modern movie streaming website frontend inspired by Netflix with:
-- Dark cinematic theme
-- Horizontal scrolling carousels
-- Movie cards with hover effects
-- Sticky navbar with search
-- Responsive grid layout"
-```
-
 #### Component Development
 
 ```
 "Create a reusable StreamingCard component that:
-- Displays movie poster from TMDB
 - Shows title, rating, and year
 - Has smooth hover scale effect
 - Links to movie detail page
