@@ -1,0 +1,207 @@
+{
+  "hero": {
+    "id": 1,
+    "title": "Monsters",
+    "description": "Surviving the last chapter in the series where monsters awaken from the depths of hell.",
+    "backdrop": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1920&q=80",
+    "genre": ["Action", "Adventure", "Horror"]
+  },
+  "trending": [
+    {
+      "id": 385687,
+      "title": "Fast X",
+      "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "genre": ["Action", "Crime"],
+      "rating": 7.2,
+      "year": "2023"
+    },
+    {
+      "id": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "genre": ["Science Fiction", "Adventure"],
+      "rating": 8.0,
+      "year": "2023"
+    },
+    {
+      "id": 298618,
+      "title": "The Flash",
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "genre": ["Action", "Adventure"],
+      "rating": 6.9,
+      "year": "2023"
+    },
+    {
+      "id": 569094,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "genre": ["Animation", "Action"],
+      "rating": 8.4,
+      "year": "2023"
+    },
+    {
+      "id": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "genre": ["Animation", "Adventure"],
+      "rating": 7.7,
+      "year": "2023"
+    },
+    {
+      "id": 76600,
+      "title": "Avatar: The Way of Water",
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "genre": ["Science Fiction", "Adventure"],
+      "rating": 7.6,
+      "year": "2022"
+    },
+    {
+      "id": 315162,
+      "title": "Puss in Boots: The Last Wish",
+      "poster": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "genre": ["Animation", "Adventure"],
+      "rating": 8.2,
+      "year": "2022"
+    },
+    {
+      "id": 603692,
+      "title": "John Wick: Chapter 4",
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "genre": ["Action", "Thriller"],
+      "rating": 7.8,
+      "year": "2023"
+    },
+    {
+      "id": 640146,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "poster": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+      "genre": ["Action", "Adventure"],
+      "rating": 6.5,
+      "year": "2023"
+    },
+    {
+      "id": 758009,
+      "title": "Sonic the Hedgehog 2",
+      "poster": "/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+      "genre": ["Action", "Adventure"],
+      "rating": 7.5,
+      "year": "2022"
+    }
+  ],
+  "continueWatching": [
+    {
+      "id": 201,
+      "title": "Raya and the Last Dragon",
+      "poster": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=400&q=80",
+      "progress": 45,
+      "genre": ["Animation", "Adventure"]
+    },
+    {
+      "id": 202,
+      "title": "Soul",
+      "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=400&q=80",
+      "progress": 70,
+      "genre": ["Animation", "Drama"]
+    },
+    {
+      "id": 203,
+      "title": "The Karate Kid",
+      "poster": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=400&q=80",
+      "progress": 20,
+      "genre": ["Action", "Drama"]
+    }
+  ],
+  "popular": [
+    {
+      "id": 507089,
+      "title": "Five Nights at Freddy's",
+      "poster": "/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
+      "genre": ["Horror", "Mystery"],
+      "rating": 7.5,
+      "year": "2023"
+    },
+    {
+      "id": 614933,
+      "title": "The Maze Runner",
+      "poster": "/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+      "genre": ["Action", "Mystery"],
+      "rating": 7.2,
+      "year": "2014"
+    },
+    {
+      "id": 872585,
+      "title": "Oppenheimer",
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "genre": ["Drama", "History"],
+      "rating": 8.1,
+      "year": "2023"
+    },
+    {
+      "id": 346698,
+      "title": "Barbie",
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "genre": ["Comedy", "Adventure"],
+      "rating": 7.2,
+      "year": "2023"
+    },
+    {
+      "id": 804095,
+      "title": "The Fabelmans",
+      "poster": "/d2IywyOPS78vEnJCuJdsVzVA7x.jpg",
+      "genre": ["Drama"],
+      "rating": 7.6,
+      "year": "2022"
+    },
+    {
+      "id": 551271,
+      "title": "Black Panther: Wakanda Forever",
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "genre": ["Action", "Adventure"],
+      "rating": 7.4,
+      "year": "2022"
+    },
+    {
+      "id": 436270,
+      "title": "Black Adam",
+      "poster": "/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+      "genre": ["Action", "Fantasy"],
+      "rating": 7.0,
+      "year": "2022"
+    },
+    {
+      "id": 505642,
+      "title": "Black Panther",
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "genre": ["Action", "Adventure"],
+      "rating": 7.4,
+      "year": "2018"
+    },
+    {
+      "id": 639721,
+      "title": "The Nun II",
+      "poster": "/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+      "genre": ["Horror", "Mystery"],
+      "rating": 6.8,
+      "year": "2023"
+    },
+    {
+      "id": 980489,
+      "title": "Gran Turismo",
+      "poster": "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+      "genre": ["Action", "Drama"],
+      "rating": 7.9,
+      "year": "2023"
+    }
+  ],
+  "genres": [
+    "All Popular",
+    "Action",
+    "Animation",
+    "Adventure",
+    "Horror",
+    "Documentary",
+    "Romance",
+    "Kids",
+    "Comedy"
+  ]
+}

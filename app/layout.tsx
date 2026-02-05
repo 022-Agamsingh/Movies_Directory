@@ -2,7 +2,6 @@ import type { Metadata } from 'next';
 import { Open_Sans } from 'next/font/google';
 import './globals.css';
 import Header from '@/components/layout/Header';
-import Footer from '@/components/layout/Footer';
 import { ThemeProvider } from '@/components/layout/ThemeProvider';
 import { Toaster } from 'react-hot-toast';
 
@@ -38,7 +37,6 @@ export default function RootLayout({
                     </main>
 
                     <Toaster position="bottom-center" />
-                    <Footer />
                 </ThemeProvider>
             </body>
         </html>

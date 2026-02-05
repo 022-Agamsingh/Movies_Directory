@@ -2,6 +2,7 @@ import AddToWatchlistButton from '@/components/AddToWatchList';
 import LazyImage from '@/components/LazyImage';
 import MovieActorsSection from '@/components/MovieActorsSection';
 import { dateFormatter } from '@/lib/date-formatter';
+import Navbar from '@/components/Navbar';
 import { FaStar } from 'react-icons/fa6';
 import {
     getMovies,
@@ -61,8 +62,9 @@ export default async function MoviePage({ params }: Params) {
 
     return (
         <>
+            <Navbar />
             <section
-                className="bg-cover bg-center bg-no-repeat py-8 text-white mb-8 -mt-4 relative"
+                className="bg-cover bg-center bg-no-repeat py-8 text-white mb-8 mt-16 relative"
                 style={{
                     backgroundImage: `linear-gradient(#000000bb, #000000bb), url(${optimizedBackdrop})`,
                 }}

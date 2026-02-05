@@ -5,7 +5,7 @@ import GenreFilter from '@/components/GenreFilter';
 import Footer from '@/components/Footer';
 import moviesData from '@/data/movies.json';
 
-export default function Home() {
+export default function StreamingHome() {
   return (
     <div className="min-h-screen bg-white dark:bg-black -mt-[88px]" data-streaming-page>
       {/* Navbar */}
