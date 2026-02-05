@@ -108,7 +108,6 @@ This project was built with assistance from **GitHub Copilot** and **Claude Sonn
 
 ```
 "Create a reusable StreamingCard component that:
-- Shows title, rating, and year
 - Has smooth hover scale effect
 - Links to movie detail page
 - Is fully responsive"
